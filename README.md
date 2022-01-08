@@ -5,7 +5,10 @@
 - 💬 Reach out to me @haideraltaf804@gmail.com
 
 # 🔧 Technologies & Tools
-[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+- :keyboard: Code - Python, R, Javascript
+- :computer: ML - Pandas, NumPy, ScikitLearn, TensorFlow
+- :abacus: FrameWork - Flask, Django, Bootstrap, JQuery
+- :flashlight: Tools - Heroku, Docker, Red Hat
 
 
 <!---
