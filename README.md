@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haider Altaf</h1>
 <h3 align="center">Currently working as a Marketing Data Scientist.</h3>
 
-- 🔭 I’m currently working on **I’m interested in Machine Learning and AI techniques in business settings.**
+- 🔭 I’m currently working on **implementing machine learning and AI methodoligies in business settings.**
 
-- 🌱 I’m currently learning **Web development with Python and JavaScript.**
+- 🌱 I’m currently learning **web development with Python and JavaScript.**
 
-- 👯 I’m looking to collaborate on **Developing a project to customize, organize personal finances.**
+- 👯 I’m looking to collaborate on **developing a project to customize, organize personal finances.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haltaf000?tab=repositories](https://github.com/haltaf000?tab=repositories)
 
