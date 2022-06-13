@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haider Altaf</h1>
+<h1 align="center">Hi, I'm Haider Altaf</h1>
 <h3 align="center">Currently working as a Marketing Data Scientist.</h3>
 
 - 🔭 I’m currently working on **implementing machine learning and AI methodoligies in business settings.**
