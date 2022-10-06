@@ -1,5 +1,7 @@
-<h1 align="left">Hello!</h1>
+<h2 align="left">Hello!</h2>
 I'm Haider, a Data Scientist.
+
+<h2 align="left">My Interests and Projects</h2>
 
 - 🔭 I’m currently working on **implementing machine learning and AI methodoligies in business settings.**
 
