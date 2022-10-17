@@ -1,6 +1,6 @@
 <h2 align="left">Hello! 👋</h2>
 
-I'm Haider, a Data Scientist.
+I'm Haider, a ML Software Engineer.
 
 <h2 align="left">Featured Projects 📂</h2>
 
