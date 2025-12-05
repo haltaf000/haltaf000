@@ -1,6 +1,6 @@
 <h2 align="left">Hello! 👋</h2>
 
-I'm Haider, a data researcher and scientist.
+I'm Haider, a data researcher and engineer.
 
 <h2 align="left">Featured Projects 📂</h2>
 
@@ -13,7 +13,7 @@ All of my projects are available at [https://github.com/haltaf000?tab=repositori
 
 - Mastering **web development with Python and JavaScript.**
 
-- Looking to collaborate on **developing a project to customize, and organize personal finances.**
+- Looking to collaborate on **developing a project to customize and organize personal finances.**
 
 - Ask me about **Machine Learning and Python**
 
